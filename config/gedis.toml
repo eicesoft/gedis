@@ -1,0 +1,4 @@
+[Server]
+Port = 6379
+Password = ""
+EnableAof = true
